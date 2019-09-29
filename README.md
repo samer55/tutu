@@ -6,3 +6,4 @@
 # 3.react-native run-ios
 
 
+# tutu
